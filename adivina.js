@@ -1,5 +1,5 @@
 //Numero aleatorio 1-10
-let rnd = Math.floor(Math.random() * 10)+1;
+let rnd = Math.floor(Math.random() * 100)+1;
 
 //Variables
 let acertado = false;
