@@ -1,3 +1,9 @@
+/*
+    Autor: Sergio Matamoros Delgado
+    Fecha: 18-9-2021
+*/
+'use strict';
+
 //Numero aleatorio 1-10
 let rnd = Math.floor(Math.random() * 100)+1;
 
